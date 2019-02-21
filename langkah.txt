@@ -1,0 +1,5 @@
+Langkah-langkah
+1. buka xampp
+2. Nyalakan apache dan Mysql
+3. klik impor
+4. masukan sql db_laravel
